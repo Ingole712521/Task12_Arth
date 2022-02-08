@@ -6,6 +6,8 @@ Arth_Task
 
 12.2 Configure the same setup as 12.1 over AWS
 
+Video Demonstration :- https://youtu.be/q6W9riFaZoE
+
 Step 1 :- Launch the Instance for websever and Haproxy
 
 Step 2 :- Check the hosts file
